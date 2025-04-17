@@ -34,8 +34,8 @@ Make sure the image file is kept in the project directory (do **not** remove it 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/campus-map-visualizer.git
-   cd campus-map-visualizer
+   git clone https://github.com/ehtsubasa/CPSC_335_CampusNavigation.git
+   cd CPSC_335_CampusNavigation
    
 2. **Install dependencies:**
    ```bash
